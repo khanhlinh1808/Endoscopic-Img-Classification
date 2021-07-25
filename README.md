@@ -1,2 +1,3 @@
 # Endoscopic-Img-Classification
-C++ Programming Language Project
+This is my C++ Programming Language Project
+
